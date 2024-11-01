@@ -1,0 +1,23 @@
+﻿@model IEnumerable<ApiExplorer.JWT__Consumo.Models.Aluno>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Dados da API</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var aluno in Model)
+        {
+            <tr>
+                <td>@aluno.Nome</td>
+            </tr>
+        }
+    </tbody>
+</table>

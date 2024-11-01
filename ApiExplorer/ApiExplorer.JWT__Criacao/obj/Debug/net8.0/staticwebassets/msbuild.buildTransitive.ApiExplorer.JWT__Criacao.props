@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ApiExplorer.JWT__Criacao.props" />
+</Project>

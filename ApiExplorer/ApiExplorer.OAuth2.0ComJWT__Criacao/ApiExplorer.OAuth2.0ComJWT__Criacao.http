@@ -1,0 +1,6 @@
+@ApiExplorer.OAuth2._0ComJWT__Criacao_HostAddress = http://localhost:5220
+
+GET {{ApiExplorer.OAuth2._0ComJWT__Criacao_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

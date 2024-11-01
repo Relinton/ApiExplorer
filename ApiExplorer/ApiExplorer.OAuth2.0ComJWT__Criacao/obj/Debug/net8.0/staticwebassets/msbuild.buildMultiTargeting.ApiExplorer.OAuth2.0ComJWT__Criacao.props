@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiExplorer.OAuth2.0ComJWT__Criacao.props" />
+</Project>

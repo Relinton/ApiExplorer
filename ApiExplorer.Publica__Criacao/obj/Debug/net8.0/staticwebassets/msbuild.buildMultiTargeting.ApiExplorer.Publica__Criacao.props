@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiExplorer.Publica__Criacao.props" />
+</Project>

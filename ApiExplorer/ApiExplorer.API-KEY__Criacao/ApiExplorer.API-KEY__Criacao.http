@@ -1,0 +1,6 @@
+@ApiExplorer.API_KEY__Criacao_HostAddress = http://localhost:5210
+
+GET {{ApiExplorer.API_KEY__Criacao_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

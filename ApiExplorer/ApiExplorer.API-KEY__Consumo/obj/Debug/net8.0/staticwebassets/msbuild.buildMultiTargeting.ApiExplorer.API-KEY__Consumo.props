@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiExplorer.API-KEY__Consumo.props" />
+</Project>

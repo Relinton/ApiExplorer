@@ -1,0 +1,6 @@
+@ApiExplorer.Publica__Criacao_HostAddress = http://localhost:5208
+
+GET {{ApiExplorer.Publica__Criacao_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
